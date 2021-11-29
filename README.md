@@ -1,1 +1,1 @@
-# startup-of-the-year
+# Landing page project for a new start up
